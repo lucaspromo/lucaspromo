@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import photo from "@/assets/lucas-promo.jpg.asset.json";
 
 // Troque pelo link real do seu grupo
-const GROUP_URL = "https://chat.whatsapp.com/";
+const GROUP_URL = "https://chat.whatsapp.com/LsYCDQ4818fFX00Ghh01ee?s=cl&p=i&mlu=4&ilr=4&iam=2";
 
 declare global {
   interface Window {
@@ -59,9 +59,6 @@ function Index() {
           </svg>
           ENTRAR NO GRUPO
         </a>
-        <p className="mt-5 text-sm font-bold uppercase text-muted-foreground">
-          <span className="text-primary">✓</span> Já somos +700 mil membros
-        </p>
       </main>
     </div>
   );
