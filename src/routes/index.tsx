@@ -31,7 +31,7 @@ function Index() {
   return (
     <div className="flex min-h-screen flex-col bg-background text-foreground">
       <div className="bg-destructive px-4 py-3 text-center text-sm font-extrabold uppercase tracking-wide text-destructive-foreground">
-        🎯 Aproveite agora as melhores promoções de 2026
+        🎯 Aproveite agora as melhores promoções disponíveis para você!
       </div>
       <main className="mx-auto flex w-full max-w-md flex-1 flex-col items-center justify-center px-5 py-10 text-center">
         <h1 className="text-3xl font-black leading-tight">
